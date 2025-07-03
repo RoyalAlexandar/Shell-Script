@@ -1,3 +1,2 @@
-echo "change" >> file1
-rm file2
-
+git add -u
+git commit  -m "Commit changes"
